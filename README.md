@@ -15,8 +15,8 @@
 
 Homepage:
 
-![](http://github.com/jbroadway/simplement/raw/master/simplement/screenshot-index.png)
+![](http://github.com/jbroadway/simplement/raw/master/screenshot-index.png)
 
 Inner pages:
 
-![](http://github.com/jbroadway/simplement/raw/master/simplement/screenshot-inner.png)
+![](http://github.com/jbroadway/simplement/raw/master/screenshot-inner.png)
